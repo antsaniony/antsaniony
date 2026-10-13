@@ -31,19 +31,27 @@ Développeur web et mobile spécialisé dans les outils numériques pour l'éduc
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,tailwind,bootstrap&theme=dark" alt="Frontend" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=php,codeigniter,nodejs,express&theme=dark" alt="Backend" />
+
+### Bases de données
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Bases de données" />
 
 ### Mobile
 
 <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" /> <img src="https://cdn.simpleicons.org/capacitor/119EFF" width="48" height="48" alt="Capacitor" />
 
+### Design graphique
+
+<img src="https://skillicons.dev/icons?i=ps,ai,id,figma&theme=dark" alt="Design graphique" />
+
 ### Outils & Déploiement
 
-<img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,figma&theme=dark" alt="Outils" />
+<img src="https://skillicons.dev/icons?i=git,github,netlify,vscode&theme=dark" alt="Outils" />
 
 ---
 
