@@ -4,7 +4,7 @@
 
 <br/>
 
-![Visits](https://komarev.com/ghpvc/?username=antsaniony&label=Visits&color=brightgreen&style=flat)
+![Visites](https://hits.sh/github.com/antsaniony.svg?label=Visites&color=44cc11&style=flat)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fantsaniony&query=%24.public_repos&label=Repos&color=brightgreen&style=flat)
 ![Followers](https://img.shields.io/github/followers/antsaniony?label=Followers&color=brightgreen&style=flat)
 
