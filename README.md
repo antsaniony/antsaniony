@@ -58,9 +58,11 @@ Développeur web et mobile spécialisé dans la **technologie éducative** : ges
 <tr>
 <td width="50%" valign="top">
 
-### INFOTECH MADA
+### [INFOTECH MADA](https://infotech-mada.onrender.com)
 
 Registre des élèves pour les cours d'informatique (6e à Terminale) : élèves, paiements de livres, emplois du temps, programmes, dactylographie, messagerie et appels. Web, Windows et Android.
+
+[![Voir en ligne](https://img.shields.io/badge/Voir_en_ligne-17332d?style=flat&logo=render&logoColor=46E3B7)](https://infotech-mada.onrender.com)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 
